@@ -1,0 +1,7 @@
+unicom24/.idea/*
+unicom24/target/*
+unicom24/UNICOM24.iml
+unicom24/src/drivers/chromedriver75.exe
+.idea/
+unicom24/src/test/java/downloads/credit-rating-5345838.pdf
+*.pdf
